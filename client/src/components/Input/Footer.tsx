@@ -12,10 +12,7 @@ export default function Footer() {
         config.customFooter
       ) : (
         <>
-          <a href="https://librechat.ai" target="_blank" rel="noreferrer" className="underline">
-            {config?.appTitle || 'LibreChat'} {Constants.VERSION}
-          </a>
-          {' - '}. {localize('com_ui_pay_per_call')}
+        HyprLab Chat&nbsp;&nbsp; ─ &nbsp;&nbsp;Credits to <a href="https://github.com/danny-avila/LibreChat" target="_blank" rel="noreferrer" class="underline">@LibreChat</a>
         </>
       )}
     </div>
