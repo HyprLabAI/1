@@ -130,7 +130,7 @@ export default {
   com_auth_click_here: 'Klik hier',
   com_auth_to_try_again: 'om het opnieuw te proberen.',
   com_auth_submit_registration: 'Registratie indienen',
-  com_auth_welcome_back: 'Welkom terug',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_endpoint_open_menu: 'Open menu',
   com_endpoint_bing_enable_sydney: 'Schakel Sydney in',
   com_endpoint_bing_to_enable_sydney: 'Om Sydney in te schakelen',
@@ -791,8 +791,8 @@ export const comparisons = {
     translated: 'Registratie indienen',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
-    translated: 'Welkom terug',
+    english: 'HyprLab Chat',
+    translated: 'HyprLab Chat',
   },
   com_endpoint_open_menu: {
     english: 'Open Menu',

@@ -208,7 +208,7 @@ export default {
   com_auth_click_here: '点击这里',
   com_auth_to_try_again: '再试一次。',
   com_auth_submit_registration: '注册提交',
-  com_auth_welcome_back: '欢迎',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_auth_back_to_login: '返回登录',
   com_endpoint_open_menu: '打开菜单',
   com_endpoint_bing_enable_sydney: '启用 Sydney',
@@ -1357,8 +1357,8 @@ export const comparisons = {
     translated: '注册提交',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
-    translated: '欢迎',
+    english: 'HyprLab Chat',
+    translated: 'HyprLab Chat',
   },
   com_auth_back_to_login: {
     english: 'Back to Login',

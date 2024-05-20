@@ -129,7 +129,7 @@ export default {
   com_auth_click_here: 'Nhấp vào đây',
   com_auth_to_try_again: 'để thử lại.',
   com_auth_submit_registration: 'Gửi đăng ký',
-  com_auth_welcome_back: 'Chào mừng trở lại',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_endpoint_open_menu: 'Mở Menu',
   com_endpoint_bing_enable_sydney: 'Bật Sydney',
   com_endpoint_bing_to_enable_sydney: 'Để bật Sydney',
@@ -768,8 +768,8 @@ export const comparisons = {
     translated: 'Gửi đăng ký',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
-    translated: 'Chào mừng trở lại',
+    english: 'HyprLab Chat',
+    translated: 'HyprLab Chat',
   },
   com_endpoint_open_menu: {
     english: 'Open Menu',

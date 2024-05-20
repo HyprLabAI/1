@@ -129,7 +129,7 @@ export default {
   com_auth_click_here: 'Buraya tıklayın',
   com_auth_to_try_again: 'tekrar denemek için.',
   com_auth_submit_registration: 'Kaydı Gönder',
-  com_auth_welcome_back: 'Tekrar Hoş Geldiniz',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_endpoint_open_menu: 'Menüyü Aç',
   com_endpoint_bing_enable_sydney: 'Sydney\'i Etkinleştir',
   com_endpoint_bing_to_enable_sydney: 'Sydney\'i etkinleştirmek için',
@@ -805,8 +805,8 @@ export const comparisons = {
     translated: 'Kaydı Gönder',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
-    translated: 'Tekrar Hoş Geldiniz',
+    english: 'HyprLab Chat',
+    translated: 'HyprLab Chat',
   },
   com_endpoint_open_menu: {
     english: 'Open Menu',
