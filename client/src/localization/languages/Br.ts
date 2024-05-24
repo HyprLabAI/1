@@ -220,7 +220,7 @@ export default {
   com_auth_click_here: 'Clique aqui',
   com_auth_to_try_again: 'para tentar novamente.',
   com_auth_submit_registration: 'Enviar registro',
-  com_auth_welcome_back: 'Bem-vindo de volta',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_auth_back_to_login: 'Voltar para Login',
   com_endpoint_open_menu: 'Abrir Menu',
   com_endpoint_bing_enable_sydney: 'Habilitar Sydney',
@@ -1286,8 +1286,8 @@ export const comparisons = {
     translated: 'Enviar registro',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
-    translated: 'Bem-vindo de volta',
+    english: 'HyprLab Chat',
+    translated: 'HyprLab Chat',
   },
   com_auth_back_to_login: {
     english: 'Back to Login',

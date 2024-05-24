@@ -302,7 +302,7 @@ export default {
   com_auth_click_here: 'Click here',
   com_auth_to_try_again: 'to try again.',
   com_auth_submit_registration: 'Submit registration',
-  com_auth_welcome_back: 'Welcome back',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_auth_back_to_login: 'Back to Login',
   com_endpoint_open_menu: 'Open Menu',
   com_endpoint_bing_enable_sydney: 'Enable Sydney',

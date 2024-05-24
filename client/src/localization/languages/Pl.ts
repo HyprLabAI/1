@@ -97,7 +97,7 @@ export default {
   com_auth_click_here: 'Kliknij tutaj',
   com_auth_to_try_again: 'aby spróbować ponownie.',
   com_auth_submit_registration: 'Zarejestruj się',
-  com_auth_welcome_back: 'Witamy z powrotem',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_endpoint_open_menu: 'Otwórz menu',
   com_endpoint_bing_enable_sydney: 'Aktywuj Sydney',
   com_endpoint_bing_to_enable_sydney: 'Aby aktywować Sydney',
@@ -592,8 +592,8 @@ export const comparisons = {
     translated: 'Zarejestruj się',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
-    translated: 'Witamy z powrotem',
+    english: 'HyprLab Chat',
+    translated: 'HyprLab Chat',
   },
   com_endpoint_open_menu: {
     english: 'Open Menu',

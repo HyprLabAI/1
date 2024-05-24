@@ -521,13 +521,16 @@ export const supportsBalanceCheck = {
 
 export const visionModels = [
   'gpt-4o',
+  'gpt-4o-2024-05-13',
   'gpt-4-turbo',
-  'gpt-4-vision',
-  'llava',
-  'llava-13b',
-  'gemini-pro-vision',
-  'claude-3',
-  'gemini-1.5',
+  'gpt-4-turbo-2024-04-09',
+  'gpt-4-vision-preview',
+  'gpt-4-1106-vision-preview',
+  'claude-3-haiku-20240307',
+  'claude-3-sonnet-20240229',
+  'claude-3-opus-20240229',
+  'gemini-1.5-pro',
+  'gemini-1.5-flash',
 ];
 export enum VisionModes {
   generative = 'generative',

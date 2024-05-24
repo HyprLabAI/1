@@ -231,7 +231,7 @@ export default {
   com_auth_click_here: 'ここをクリック',
   com_auth_to_try_again: '再認証する',
   com_auth_submit_registration: '登録をする',
-  com_auth_welcome_back: 'おかえりなさい',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_auth_back_to_login: 'ログイン画面に戻る',
   com_endpoint_open_menu: 'メニューを開く',
   com_endpoint_bing_enable_sydney: 'Sydney有効化',
@@ -1445,8 +1445,8 @@ export const comparisons = {
     translated: '登録をする',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
-    translated: 'おかえりなさい',
+    english: 'HyprLab Chat',
+    translated: 'HyprLab Chat',
   },
   com_auth_back_to_login: {
     english: 'Back to Login',
