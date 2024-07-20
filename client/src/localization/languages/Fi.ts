@@ -351,7 +351,7 @@ export default {
   com_auth_click_here: 'Napauta tästä',
   com_auth_to_try_again: 'kokeillaksesi uudestaan.',
   com_auth_submit_registration: 'Lähetä rekisteröityminen',
-  com_auth_welcome_back: 'Tervetuloa takaisin',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_auth_back_to_login: 'Palaa kirjautumiseen',
   com_auth_email_verification_failed: 'Sähköpostin varmentaminen epäonnistui',
   com_auth_email_verification_rate_limited: 'Liian monta yritystä. Kokeile myöhemmin uudestaan',
