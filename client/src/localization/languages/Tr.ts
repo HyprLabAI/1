@@ -325,7 +325,7 @@ export default {
   com_auth_click_here: 'Buraya tıklayın',
   com_auth_to_try_again: 'yeniden denemek için.',
   com_auth_submit_registration: 'Kayıt formunu gönder',
-  com_auth_welcome_back: 'Tekrar hoş geldiniz',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_auth_back_to_login: 'Girişe geri dön',
   com_auth_email_verification_failed: 'E-posta doğrulama başarısız oldu',
   com_auth_email_verification_rate_limited: 'Çok fazla istek var. Lütfen daha sonra tekrar deneyin',

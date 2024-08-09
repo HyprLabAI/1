@@ -156,7 +156,7 @@ export const googleSettings = {
   },
 };
 
-const ANTHROPIC_MAX_OUTPUT = 8192;
+const ANTHROPIC_MAX_OUTPUT = 4096;
 const LEGACY_ANTHROPIC_MAX_OUTPUT = 4096;
 export const anthropicSettings = {
   model: {
