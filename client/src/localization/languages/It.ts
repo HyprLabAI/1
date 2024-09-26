@@ -296,7 +296,7 @@ export default {
   com_auth_click_here: 'Clicca qui',
   com_auth_to_try_again: 'per riprovare.',
   com_auth_submit_registration: 'Invia registrazione',
-  com_auth_welcome_back: 'Ben tornato',
+  com_auth_welcome_back: 'HyprLab Chat',
   com_auth_back_to_login: 'Torna all\'accesso',
   com_endpoint_open_menu: 'Apri menu',
   com_endpoint_bing_enable_sydney: 'Abilita Sydney',
@@ -1686,8 +1686,8 @@ export const comparisons = {
     translated: 'Invia registrazione',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
-    translated: 'Ben tornato',
+    english: 'HyprLab Chat',
+    translated: 'HyprLab Chat',
   },
   com_auth_back_to_login: {
     english: 'Back to Login',
