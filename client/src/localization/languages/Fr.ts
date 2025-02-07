@@ -167,7 +167,7 @@ export default {
   com_auth_click_here: 'Cliquez ici',
   com_auth_to_try_again: 'pour réessayer.',
   com_auth_submit_registration: 'Soumettre l\'inscription',
-  com_auth_welcome_back: 'Bienvenue à nouveau',
+  com_auth_welcome_back: 'HYPRLAB CHAT',
   com_endpoint_open_menu: 'Ouvrir le menu',
   com_endpoint_bing_enable_sydney: 'Activer Sydney',
   com_endpoint_bing_to_enable_sydney: 'Pour activer Sydney',

@@ -191,7 +191,7 @@ export default {
   com_auth_click_here: 'לחץ כאן',
   com_auth_to_try_again: 'כדי לנסות שוב.',
   com_auth_submit_registration: 'שלח רישום',
-  com_auth_welcome_back: 'ברוכים הבאים',
+  com_auth_welcome_back: 'HYPRLAB CHAT',
   com_auth_back_to_login: 'חזרה לכניסה',
   com_endpoint_open_menu: 'תפריט פתח',
   com_endpoint_bing_enable_sydney: 'אפשר את סידני',

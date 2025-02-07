@@ -396,7 +396,7 @@ export default {
   com_auth_click_here: 'Klicke hier',
   com_auth_to_try_again: 'um es erneut zu versuchen.',
   com_auth_submit_registration: 'Registrierung absenden',
-  com_auth_welcome_back: 'Willkommen zurück',
+  com_auth_welcome_back: 'HYPRLAB CHAT',
   com_auth_back_to_login: 'Zurück zur Anmeldung',
   com_auth_email_verification_failed: 'E-Mail-Verifizierung fehlgeschlagen',
   com_auth_email_verification_rate_limited: 'Zu viele Anfragen. Bitte versuche es später erneut',

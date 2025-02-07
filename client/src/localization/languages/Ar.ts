@@ -143,7 +143,7 @@ export default {
   com_auth_click_here: 'انقر هنا',
   com_auth_to_try_again: 'للمحاولة مرة أخرى.',
   com_auth_submit_registration: 'إرسال التسجيل',
-  com_auth_welcome_back: 'مرحبا بك مرة أخرى',
+  com_auth_welcome_back: 'HYPRLAB CHAT',
   com_endpoint_open_menu: 'افتح القائمة',
   com_endpoint_bing_enable_sydney: 'تمكين سيدني',
   com_endpoint_bing_to_enable_sydney: 'لتمكين سيدني',

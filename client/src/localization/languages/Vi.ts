@@ -151,7 +151,7 @@ export default {
   com_auth_click_here: 'Nhấp vào đây',
   com_auth_to_try_again: 'để thử lại.',
   com_auth_submit_registration: 'Gửi đăng ký',
-  com_auth_welcome_back: 'Chào mừng trở lại',
+  com_auth_welcome_back: 'HYPRLAB CHAT',
   com_endpoint_open_menu: 'Mở Menu',
   com_endpoint_bing_enable_sydney: 'Bật Sydney',
   com_endpoint_bing_to_enable_sydney: 'Để bật Sydney',

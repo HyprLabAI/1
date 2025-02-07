@@ -160,7 +160,7 @@ export default {
   com_auth_click_here: 'Klik di sini',
   com_auth_to_try_again: 'untuk mencoba lagi.',
   com_auth_submit_registration: 'Kirim pendaftaran',
-  com_auth_welcome_back: 'Selamat datang kembali',
+  com_auth_welcome_back: 'HYPRLAB CHAT',
   com_endpoint_open_menu: 'Buka Menu',
   com_endpoint_bing_enable_sydney: 'Aktifkan Sydney',
   com_endpoint_bing_to_enable_sydney: 'Untuk mengaktifkan Sydney',

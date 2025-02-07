@@ -421,7 +421,7 @@ export default {
   com_auth_click_here: 'ここをクリック',
   com_auth_to_try_again: '再認証する',
   com_auth_submit_registration: '登録をする',
-  com_auth_welcome_back: 'おかえりなさい',
+  com_auth_welcome_back: 'HYPRLAB CHAT',
   com_auth_back_to_login: 'ログイン画面に戻る',
   com_auth_email_verification_failed: 'メール検証に失敗しました',
   com_auth_email_verification_rate_limited:

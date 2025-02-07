@@ -146,7 +146,7 @@ export default {
   com_auth_click_here: 'Klicka här',
   com_auth_to_try_again: 'för att försöka igen.',
   com_auth_submit_registration: 'Skicka registrering',
-  com_auth_welcome_back: 'Välkommen tillbaka',
+  com_auth_welcome_back: 'HYPRLAB CHAT',
   com_endpoint_open_menu: 'Öppna meny',
   com_endpoint_bing_enable_sydney: 'Aktivera Sydney',
   com_endpoint_bing_to_enable_sydney: 'För att aktivera Sydney',
