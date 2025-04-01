@@ -1342,6 +1342,13 @@ ${convo}
       let streamResolve;
 
       if (
+        modelOptions.stream === true &&
+        (modelOptions.model === 'o1-pro-high' || modelOptions.model === 'o1-pro' || modelOptions.model === 'o1-pro-2025-03-19')
+      ) {
+        delete modelOptions.stream;
+        delete modelOptions.stop;
+      }
+      else if (
         (!this.isOmni || /^o1-(mini|preview)/i.test(modelOptions.model)) &&
         modelOptions.reasoning_effort != null
       ) {
